@@ -1,0 +1,92 @@
+/* Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* navbar */
+.bg-custom{
+    background-color: #264653;
+}
+.btn-orange{
+    background-color:#E76F51;
+}
+.hover:hover{
+    background-color: orange;
+}
+/* Fetured Bikes 2021 */
+.font-color{
+    color: #E76F51;
+}
+.fetured-img{
+    width: 288px ;
+    height: 243px;
+}
+hr{
+    color:#E76F51 ;
+}
+
+/* Latext News */
+.btn-outline-primary{
+    border-color:#E76F51;
+}
+.btn-outline-primary:hover{
+    background-color:#E76F51 ;
+    border-color:#E76F51;
+}
+.text-orange{
+    color: #E76F51;
+}
+ /* Gray Scale Image For Fetured Bikes*/
+.gray{
+    filter: grayscale(100%);
+}
+/* Latest News */
+.img-size{
+   width: 337px; 
+   height: 256px;
+}
+
+/* performance */
+.bg-orange{
+    background-color:#E76F51 ;
+}
+/* Happy Clients */
+.img-sizing{
+    width: 149px !important;
+    height: 149px;
+    border-radius: 50% !important;
+}
+span{
+    color: #E76F51;
+}
+small{
+    color: #23A6F0;
+}
+/* FontAwesome color   */
+.fas{
+    color:#E76F51 ;
+}
+.far{
+    color:#E76F51;
+}
+
+/* Frequently Asked Question */
+.faq-img{
+    width: 431px;
+    height: 423px;
+}
+
+/* FOOTER */
+.apple-img{
+    width: 180px ;
+    height: 140px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: whitesmoke;
+}
